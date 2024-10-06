@@ -51,6 +51,8 @@ flex-grow: 3;
     width: 10%;
 }
 
+
+
 footer{
 
     background-color: black;
@@ -64,5 +66,8 @@ footer{
 
 footer p{
 
+    padding-top: 2%;
     text-align: center;
+    
 }
+
